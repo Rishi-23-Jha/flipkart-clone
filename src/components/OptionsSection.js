@@ -9,7 +9,7 @@ const OptionsSection = () => {
         {
             options.map((item) => (
                   <div className="m-5 p-3 flex flex-col items-center"> 
-                     <div className=" w-[64px] h-[64px] rounded-lg" style={{backgroundColor: item.bgColor}}></div>
+                     <div className="rounded-lg"><img src={item.image}/></div>
                      <h4>{item.title}</h4> 
                   </div>
             ))        }
