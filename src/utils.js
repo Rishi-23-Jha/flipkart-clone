@@ -115,10 +115,7 @@ export const slider = [
       "name": "Moto G96 5G",
       "price": "Just ₹14,999*"
     },
-    {
-      "name": "Realme P3x 5G",
-      "price": "From ₹10,999*"
-    },
+    
     {
       "name": "Samsung Galaxy S24",
       "price": "From ₹38,999*"
@@ -128,3 +125,20 @@ export const slider = [
       "price": "From ₹24,999*"
     }
   ]
+
+export const imageBanner =   [
+    {
+      "id": 1,
+      "url": "https://rukminim1.flixcart.com/fk-p-flap/1040/560/image/c5d0453a8ad30643.jpg?q=60"
+    },
+    {
+      "id": 2,
+      "url": "https://rukminim1.flixcart.com/fk-p-flap/1040/560/image/1851521e1446cb04.jpg?q=60"
+    },
+    {
+      "id": 3,
+      "url": "https://rukminim1.flixcart.com/fk-p-flap/1040/560/image/7fd6c110d38e5900.jpg?q=60"
+    }
+  ]
+
+

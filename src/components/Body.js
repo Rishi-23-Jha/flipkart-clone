@@ -1,6 +1,7 @@
 import Carousel from './Carousel';
 import  Deals  from './Deals';
 import Header from './Header'
+import ImageBanner from './ImageBanner';
 import OptionsSection from './OptionsSection';
 const Body = () => {
     return (
@@ -9,6 +10,7 @@ const Body = () => {
             <OptionsSection/>
             <Carousel/>
             <Deals/>
+            <ImageBanner/>
         </div>
     )
 }
