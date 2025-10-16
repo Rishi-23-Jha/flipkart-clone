@@ -8,7 +8,7 @@ const OptionsSection = () => {
       
         {
             options.map((item) => (
-                  <div className="m-5 p-3 flex flex-col items-center"> 
+                  <div className="m-2 p-3 flex flex-col items-center"> 
                      <div className="rounded-lg"><img src={item.image}/></div>
                      <h4>{item.title}</h4> 
                   </div>

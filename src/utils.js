@@ -94,3 +94,37 @@ export const slider = [
   }
 ]
 
+ export const deals = [
+    {
+      "name": "OPPO K13x 5G",
+      "price": "From ₹9,499*"
+    },
+    {
+      "name": "Moto Edge 60 Pro 5G",
+      "price": "From ₹24,999*"
+    },
+    {
+      "name": "realme P4 5G",
+      "price": "From ₹14,999*"
+    },
+    {
+      "name": "OPPO K13 5G",
+      "price": "From ₹14,999*"
+    },
+    {
+      "name": "Moto G96 5G",
+      "price": "Just ₹14,999*"
+    },
+    {
+      "name": "Realme P3x 5G",
+      "price": "From ₹10,999*"
+    },
+    {
+      "name": "Samsung Galaxy S24",
+      "price": "From ₹38,999*"
+    },
+    {
+      "name": "Nothing Phone (3a) Pro",
+      "price": "From ₹24,999*"
+    }
+  ]
