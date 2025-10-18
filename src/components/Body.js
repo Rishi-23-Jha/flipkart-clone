@@ -1,5 +1,6 @@
 import Carousel from './Carousel';
 import  Deals  from './Deals';
+import Gadget from './Gadget';
 import Header from './Header'
 import ImageBanner from './ImageBanner';
 import OptionsSection from './OptionsSection';
@@ -11,6 +12,7 @@ const Body = () => {
             <Carousel/>
             <Deals/>
             <ImageBanner/>
+            <Gadget/>
         </div>
     )
 }

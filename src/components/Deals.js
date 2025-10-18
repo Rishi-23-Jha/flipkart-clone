@@ -26,7 +26,7 @@ const Deals = () => {
       </div>
 
      
-      <div className="w-[300px] h-[300px] ml-5">
+      <div className="w-[300px] ml-5">
         <img
           src="https://rukminim1.flixcart.com/fk-p-flap/1060/1620/image/8c7715465f4e22ca.jpeg?q=60"
           alt="Deals Banner"

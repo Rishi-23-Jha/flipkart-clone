@@ -138,7 +138,47 @@ export const imageBanner =   [
     {
       "id": 3,
       "url": "https://rukminim1.flixcart.com/fk-p-flap/1040/560/image/7fd6c110d38e5900.jpg?q=60"
+    },
+    {
+      'id': 4,
+      'url': 'https://rukminim1.flixcart.com/fk-p-flap/1040/560/image/d81749f2b7369dfd.jpg?q=60'
+    },
+     {
+      "id": 5,
+      "url": "https://rukminim1.flixcart.com/fk-p-flap/1040/560/image/c5d0453a8ad30643.jpg?q=60"
+    },
+    {
+      "id": 6,
+      "url": "https://rukminim1.flixcart.com/fk-p-flap/1040/560/image/1851521e1446cb04.jpg?q=60"
     }
   ]
+
+export const Products = [
+    {
+      "id": 1,
+      "name": "True Wireless",
+      "price": "Min. 50% Off",
+      "image": "https://rukminim1.flixcart.com/image/420/420/xif0q/headphone/j/e/t/black-earbuds-with-premium-quality-sound-hectic-original-imahdbptpvnn2hyy.jpeg?q=60"
+    },
+    {
+      "id": 2,
+      "name": "Earphones",
+      "price": "Min. 50% Off",
+      "image": "https://rukminim1.flixcart.com/image/420/420/xif0q/headphone/r/c/j/-original-imahae3ea2j4mhkt.jpeg?q=60"
+    },
+    {
+      "id": 3,
+      "name": "Wrist Watches",
+      "price": "Min. 90% Off",
+      "image": "https://rukminim1.flixcart.com/image/420/420/xif0q/watch/r/v/1/1-arabic-dial-black-watch-for-men-sabr-men-original-imahg2zfrcsqhscz.jpeg?q=60"
+    },
+    {
+      "id": 4,
+      "name": "Neckband",
+      "price": "Min. 50% Off",
+      "image": "https://rukminim1.flixcart.com/image/420/420/xif0q/headphone/3/m/u/nb111-wireless-headphone-magnetic-neckband-250h-standby-200mah-original-imah77cwrvwjzbyt.jpeg?q=60"
+    }
+  ]
+
 
 
